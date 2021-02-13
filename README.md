@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Parameshwar-A](@parameshwar-A)
+- 👋 Hi, I’m @parameshwar-A
 - 👀 I’m interested in Python, Django, open-source softwares, Linux
 - 🌱 I’m currently practicing Python
 - 📫 You can reach me through
